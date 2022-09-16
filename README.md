@@ -1,10 +1,10 @@
-# FinTech-ML-Training
+# Koby-ML-Training
 
-Instructions:
+Hello! My name is Koby, I am a year 1 IS student. My ML interest is in computer vision and algorithmic trading. I enjoy trading and learning about the stock market during my free time. 
 
-1. Fork this repo to your github account
-2. Clone this repo to your local PC
-3. Create a branch named "YourName-ML-Training" on your own repo
+
+
+
 4. Edit this file to include your name, year, course, ML interest, hobbies, fun facts etc...
 5. Commit and push to branch created in step 3
 6. Merge branch with master on your own repo
